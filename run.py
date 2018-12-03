@@ -7,7 +7,7 @@
 
 __author__ = 'Cobb'
 
-from app import app
+from app.api import app
 
 
 if __name__ == '__main__':
